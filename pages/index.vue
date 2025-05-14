@@ -1,8 +1,7 @@
 <template>
-  <div class="">
-    ddsadsadsd
-  </div>
+  <Connection/>
 </template>
-<script setup lang="ts">
-
+<script>
 </script>
+
+
